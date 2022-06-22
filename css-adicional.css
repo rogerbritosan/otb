@@ -74,3 +74,65 @@
     background-position: center;
     background-size: cover;
 }
+
+/**
+* Five Star Presentations
+*/
+
+.uagb-block-ac1b674b.wp-block-uagb-section .uagb-section__inner-wrap,
+.uagb-block-87236e1b.wp-block-uagb-section .uagb-section__inner-wrap,
+.uagb-block-7336acdf.wp-block-uagb-section .uagb-section__inner-wrap,
+.uagb-block-50bd4e63.wp-block-uagb-section .uagb-section__inner-wrap,
+.uagb-block-42aba3f0.wp-block-uagb-section .uagb-section__inner-wrap
+ {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 20px 20px 10px 20px;
+}
+
+.uagb-block-ac1b674b.wp-block-uagb-section .wp-block-image.size-full,
+.uagb-block-87236e1b.wp-block-uagb-section .wp-block-image.size-full,
+.uagb-block-7336acdf.wp-block-uagb-section .wp-block-image.size-full,
+.uagb-block-50bd4e63.wp-block-uagb-section .wp-block-image.size-full,
+.uagb-block-42aba3f0.wp-block-uagb-section .wp-block-image.size-full {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 992px){
+    .uagb-block-ac1b674b.wp-block-uagb-section .uagb-section__inner-wrap,
+    .uagb-block-87236e1b.wp-block-uagb-section .uagb-section__inner-wrap,
+    .uagb-block-7336acdf.wp-block-uagb-section .uagb-section__inner-wrap,
+    .uagb-block-50bd4e63.wp-block-uagb-section .uagb-section__inner-wrap,
+    .uagb-block-42aba3f0.wp-block-uagb-section .uagb-section__inner-wrap {
+        padding: 20px 70px 10px 70px;
+ }
+}
+
+/**
+* Formulário de Contato
+*/
+
+.uagb-block-4fe88a62.wp-block-uagb-section {
+    background-image:url('/wp-content/uploads/2022/06/frames-coloridos-mobile.png');
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+.uagb-block-4fe88a62.wp-block-uagb-section .uagb-section__inner-wrap {
+    background-color: #F5F9FC;
+    padding: 12px;
+    border-radius: 17px;
+}
+
+@media (min-width: 992px){
+    .uagb-block-4fe88a62.wp-block-uagb-section {
+        background-image:url('/wp-content/uploads/2022/06/frames-coloridos-desktop.png');
+    }
+
+    .uagb-block-4fe88a62.wp-block-uagb-section .uagb-section__inner-wrap {
+        padding: 80px;
+        border-radius: 26px;
+    }
+}
