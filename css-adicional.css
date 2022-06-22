@@ -75,6 +75,30 @@
     background-size: cover;
 }
 
+
+/**
+* Five Star Banner
+*/
+
+.banner-five-star {
+    background-image: url("/wp-content/uploads/2022/06/banner-frames-mobile.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 991px){
+    .banner-five-star {
+        padding-top: 260px !important;
+    }
+}
+
+@media (min-width: 992px){
+    .banner-five-star {
+        background-image: url("/wp-content/uploads/2022/06/banner-frames-desktop.png");
+        background-position: right 0;
+    }
+}
+
 /**
 * Five Star Presentations
 */
