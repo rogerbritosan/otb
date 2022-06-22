@@ -1,0 +1,76 @@
+.entry-content p {
+    margin-bottom: 0.5em;
+}
+
+.gap-custom>.uagb-columns__inner-wrap {
+    column-gap: 5em;
+}
+
+@media (max-width: 767px) {
+    .teste-margin+.teste-margin {
+        margin-top: 1em;
+    }
+}
+
+.border-azul {
+    border: solid #005F8E 20px;
+    border-radius: 3em;
+    padding: 2em 1em;
+    height: auto;
+    align-self: stretch !important;
+}
+
+.border-roxo {
+    border: solid #973C74 20px;
+    border-radius: 2em;
+    padding: 2em 1em;
+    height: auto;
+    align-self: stretch !important;
+}
+
+.border-vermelho {
+    border: solid #DA242B 20px;
+    border-radius: 2em;
+    padding: 2em 1em;
+    height: auto;
+    align-self: stretch !important;
+}
+
+.border-amarelo {
+    border: solid #F8C300 20px;
+    border-radius: 2em;
+    padding: 2em 1em;
+    height: auto;
+    align-self: stretch !important;
+}
+
+.border-verde {
+    border: solid #6A9C2C 20px;
+    border-radius: 2em;
+    padding: 2em 1em;
+    height: auto;
+    align-self: stretch !important;
+}
+
+.border-transparente {
+    border: solid transparent 20px;
+    border-radius: 2em;
+    padding: 2em 1em;
+    height: auto;
+}
+
+.imagem-cursos {
+    border-radius: 30px 20px 20px 30px;
+    box-shadow: 0px 5px 10px rgb(0 0 0 / 25%);
+    padding: 0 !important;
+}
+
+.imagem-cursos img {
+    border-radius: 20px 0 0 20px;
+}
+
+.bg-cursos-workshops {
+    background-image: url("/wp-content/uploads/2022/06/bg-cursos-e-workshops.svg");
+    background-position: center;
+    background-size: cover;
+}
