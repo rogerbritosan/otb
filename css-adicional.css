@@ -96,6 +96,24 @@
     .banner-five-star {
         background-image: url("/wp-content/uploads/2022/06/banner-frames-desktop.png");
         background-position: right 0;
+        position: relative;
+        background:none;
+        min-height: 520px;
+    }
+    
+    .banner-five-star .uagb-section__inner-wrap {
+        position:relative;
+    }
+
+    .banner-five-star .uagb-section__inner-wrap::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: -160px;
+        width: 680px;
+        height: 490px;
+        background-image: url(/wp-content/uploads/2022/06/banner-frames-desktop.png);
+        z-index: 100;
     }
 }
 
@@ -126,25 +144,70 @@
 * Formulário de Contato
 */
 
-.uagb-block-4fe88a62.wp-block-uagb-section {
+.form-contato {
     background-image:url('/wp-content/uploads/2022/06/frames-coloridos-mobile.png');
     background-position: center 0;
     background-repeat: no-repeat;
 }
 
-.uagb-block-4fe88a62.wp-block-uagb-section .uagb-section__inner-wrap {
+.form-contato .uagb-section__inner-wrap {
     background-color: #F5F9FC;
     padding: 12px;
     border-radius: 17px;
 }
 
 @media (min-width: 992px){
-    .uagb-block-4fe88a62.wp-block-uagb-section {
+    .form-contato {
         background-image:url('/wp-content/uploads/2022/06/frames-coloridos-desktop.png');
     }
 
-    .uagb-block-4fe88a62.wp-block-uagb-section .uagb-section__inner-wrap {
+    .form-contato .uagb-section__inner-wrap {
         padding: 80px;
         border-radius: 26px;
     }
 }
+
+
+/**
+* Navegação Five Star
+*/
+
+.btn-nav-five-star {
+    height: 18px;
+}
+
+.btn-individual .wp-block-button__link {
+    background-image:url('/wp-content/uploads/2022/06/ico-individual.png');
+    background-repeat: no-repeat;
+    background-position: 12px center;
+    padding-left: 30px;
+}
+
+.btn-group .wp-block-button__link {
+    background-image:url('/wp-content/uploads/2022/06/ico-group.png');
+    background-repeat: no-repeat;
+    background-position: 12px center;
+    padding-left: 37px;
+}
+
+@media (min-width: 992px){
+
+    .btn-nav-five-star {
+        height: 18px;
+    }
+
+    .banner-five-star .wp-container-1.wp-block-buttons {
+        margin-bottom: 40px;
+    }
+
+    .cta-five-star {
+        margin-top: 20px !important;
+        width: 240px;
+    }
+
+    .cta-five-star .wp-block-button__link {
+        width:100%;
+    }
+
+}
+
