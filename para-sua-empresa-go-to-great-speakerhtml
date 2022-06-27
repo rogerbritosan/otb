@@ -1,0 +1,355 @@
+<!-- wp:uagb/section {"classMigrate":true,"block_id":"15b3c12e","contentWidth":"full_width","width":1280,"className":"banner-five-star"} -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15b3c12e banner-five-star"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/columns {"block_id":"836661e6","classMigrate":true,"leftPadding":0,"rightPadding":0} -->
+    <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__background-undefined uagb-columns__stack-mobile uagb-columns__valign-undefined uagb-columns__gap-10 alignundefined uagb-block-836661e6"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-2"><!-- wp:uagb/column {"block_id":"b5d2e6a8","classMigrate":true,"colWidth":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-b5d2e6a8"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:buttons -->
+    <div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#f5f9fc","text":"#005f8e"}}} -->
+    <div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Cursos</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"text":"#005f8e","background":"#f5f9fc"}},"className":"btn-individual"} -->
+    <div class="wp-block-button btn-individual"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Individual</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"text":"#005f8e","background":"#f5f9fc"}},"className":"btn-group"} -->
+    <div class="wp-block-button btn-group" id="nav-buttons-five-star"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Grupo</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSize":75,"headFontSizeMobile":40,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLineHeight":1,"headLoadGoogleFonts":true,"subHeadFontSize":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLineHeight":1.5,"subHeadLoadGoogleFonts":true,"block_id":"7037c640","seperatorStyle":"none","showPrefix":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-7037c640"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Good to Great Speaker</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">O Good to Great Speaker é um curso de inglês online criado para você e a sua equipe despontarem no mundo dos negócios.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box -->
+    
+    <!-- wp:buttons {"className":"btn-cta-five-star"} -->
+    <div class="wp-block-buttons btn-cta-five-star"><!-- wp:button {"style":{"color":{"background":"#005f8e"}},"className":"cta-five-star"} -->
+    <div class="wp-block-button cta-five-star"><a class="wp-block-button__link has-background" style="background-color:#005f8e">INSCREVA SEU TIME</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"74a33fb1","classMigrate":true,"colWidth":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-74a33fb1"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"></div></div>
+    <!-- /wp:uagb/column --></div></section>
+    <!-- /wp:uagb/columns --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"align":"wide","block_id":"fe077d39","contentWidth":"full_width","innerWidth":1440} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined alignwide uagb-block-fe077d39"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"align":"center","id":808,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-large"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Group-949-1024x281.png" alt="" class="wp-image-808"/></figure>
+    <!-- /wp:image --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"6593ddb8","width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6593ddb8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","subHeadingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSize":40,"headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":25,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"block_id":"c2edc23d","seperatorStyle":"none","showPrefix":false,"showTitle":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-c2edc23d"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">As aulas são 100% à distância e focadas em preparar seu time para atuar em inglês com naturalidade e confiança. Com a prática e a orientação de professores americanos, ensinamos sua equipe a se comunicar com linguagem autêntica e fluência nas rotinas e ocasiões profissionais importantes como reuniões, oportunidades de negócio no exterior, videoconferências com pessoas de diferentes países, negociações ou até mesmo ter repertório para conversas informais ou sobre temas atuais em um almoço de negócios.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"58ca30a9","topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":20,"rightPaddingMobile":20,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-58ca30a9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"block_id":"375b9009","seperatorStyle":"none","showPrefix":false,"showDesc":false,"UAGDisplayConditions":"responsiveVisibility","UAGHideDesktop":true,"UAGHideTab":true} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-375b9009 uag-hide-desktop uag-hide-tab"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Foco na linguagem autêntica</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"70e240dc","topPaddingMobile":0,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70e240dc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":813,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/good-to-great-speaker/para-voce/rectangle-485/","mediaType":"image","className":"bloco-atividades-colaborativas"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile bloco-atividades-colaborativas"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Rectangle-485.png" alt="" class="wp-image-813 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"5b0fb9fd","topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":0,"rightPaddingMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5b0fb9fd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":40,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLineHeight":1.5,"subHeadLoadGoogleFonts":true,"block_id":"b0654906","seperatorStyle":"none","showPrefix":false,"UAGDisplayConditions":"responsiveVisibility"} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-b0654906"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Foco na linguagem autêntica</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Aulas para treinar a compreensão de termos e frases do mundo dos negócios e feedback para reforçar o idioma, dando maior confiança para aplicá-lo em situações da vida real.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"0ffd882b","topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"leftPaddingMobile":20,"rightPaddingMobile":20,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0ffd882b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"block_id":"4180b80c","seperatorStyle":"none","showPrefix":false,"showDesc":false,"UAGDisplayConditions":"responsiveVisibility","UAGHideDesktop":true,"UAGHideTab":true} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-4180b80c uag-hide-desktop uag-hide-tab"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Material dinâmico</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"debdc867","width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-debdc867"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":814,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/good-to-great-speaker/para-voce/rectangle-486/","mediaType":"image"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile" id="bloco-atividades-colaborativas"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Rectangle-486.png" alt="" class="wp-image-814 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"684bc2f0","topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":0,"rightPaddingMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"className":"bloco-atividades-colaborativas"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-684bc2f0 bloco-atividades-colaborativas"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":40,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLineHeight":1.5,"subHeadLoadGoogleFonts":true,"block_id":"3cc16546","seperatorStyle":"none","showPrefix":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-3cc16546"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Material dinâmico</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Nosso material é estruturado para que os alunos dominem o idioma em diferentes situações de negócios que acontecem no dia-a-dia, como reuniões, apresentações, agendamentos e muito mais. O Good to Great Speaker também oferece discussões sobre vídeos de diversos temas, para que sua equipe pratique a compreensão e argumente com autenticidade nos debates sobre diversos assuntos.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"c104e840","topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"leftPaddingMobile":20,"rightPaddingMobile":20,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c104e840"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"block_id":"16739909","seperatorStyle":"none","showPrefix":false,"showDesc":false,"UAGDisplayConditions":"responsiveVisibility","UAGHideDesktop":true,"UAGHideTab":true} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-16739909 uag-hide-desktop uag-hide-tab"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Progresso real e resultado concreto</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"689f2b5c","topMarginMobile":0,"bottomMarginMobile":0,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-689f2b5c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":815,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/good-to-great-speaker/para-voce/rectangle-487/","mediaType":"image"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Rectangle-487.png" alt="" class="wp-image-815 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"3c7b52ae","topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":0,"rightPaddingMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"className":"bloco-atividades-colaborativas"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3c7b52ae bloco-atividades-colaborativas"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":40,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLineHeight":1.5,"subHeadLoadGoogleFonts":true,"block_id":"c57003c4","seperatorStyle":"none","showPrefix":false,"className":"bloco-atividades-colaborativas"} -->
+    <div class="wp-block-uagb-info-box bloco-atividades-colaborativas uagb-infobox__outer-wrap uagb-block-c57003c4"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Progresso real e resultado concreto</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">No Good to Great Speaker os alunos acompanham a própria evolução, comparando gravações dos seus vídeos e realizando tarefas propostas em nosso material.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"acd85a5e","topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"leftPaddingMobile":20,"rightPaddingMobile":20,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-acd85a5e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"block_id":"a49f0576","seperatorStyle":"none","showPrefix":false,"showDesc":false,"UAGDisplayConditions":"responsiveVisibility","UAGHideDesktop":true,"UAGHideTab":true} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-a49f0576 uag-hide-desktop uag-hide-tab"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Pense em inglês e evolua</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"c86ba7a6","topMarginMobile":0,"bottomMarginMobile":0,"width":1008} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c86ba7a6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":816,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/good-to-great-speaker/para-voce/rectangle-488/","mediaType":"image"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Rectangle-488.png" alt="" class="wp-image-816 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"018eb593","topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":0,"rightPaddingMobile":0,"bottomMarginMobile":0,"leftMarginMobile":0,"className":"bloco-atividades-colaborativas"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-018eb593 bloco-atividades-colaborativas"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":40,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLineHeight":1.5,"subHeadLoadGoogleFonts":true,"block_id":"c9cd10a2","seperatorStyle":"none","showPrefix":false,"className":"bloco-atividades-colaborativas"} -->
+    <div class="wp-block-uagb-info-box bloco-atividades-colaborativas uagb-infobox__outer-wrap uagb-block-c9cd10a2"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Pense em inglês e evolua</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Com material completo, o Good to Great Speaker dá suporte para que sua equipe desenvolva o inglês, enfrente os desafios e consiga aproveitar as melhores oportunidades do mercado.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"689fde6a"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-689fde6a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:buttons -->
+    <div class="wp-block-buttons"><!-- wp:button {"align":"center"} -->
+    <div class="wp-block-button aligncenter"><a class="wp-block-button__link">Inscreva-se!</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:group {"align":"full","style":{"color":{"background":"#f5f9fc"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+    <div class="wp-block-group alignfull has-background" style="background-color:#f5f9fc"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"margin":{"bottom":"1em"}}},"textColor":"black","fontSize":"x-large"} -->
+    <h2 class="has-text-align-center has-black-color has-text-color has-x-large-font-size" style="font-style:normal;font-weight:600;margin-bottom:1em">Diferenciais</h2>
+    <!-- /wp:heading -->
+    
+    <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
+    <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"border-azul","layout":{"inherit":false}} -->
+    <div class="wp-block-column is-vertically-aligned-center border-azul"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"30px"}},"textColor":"black"} -->
+    <h3 class="has-text-align-center has-black-color has-text-color" style="font-size:30px;font-style:normal;font-weight:500">Inglês focado<br>em negócios</h3>
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}},"textColor":"black"} -->
+    <p class="has-text-align-center has-black-color has-text-color" style="font-size:18px">Aulas à distância pra você aprender a utilizar o seu repertório para defender projetos, vender uma grande ideia e negociar de forma consistente no mundo dos negócios.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column -->
+    
+    <!-- wp:column {"verticalAlignment":"center","className":"border-roxo"} -->
+    <div class="wp-block-column is-vertically-aligned-center border-roxo"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"30px"}},"textColor":"black"} -->
+    <h3 class="has-text-align-center has-black-color has-text-color" style="font-size:30px;font-style:normal;font-weight:500">Professores Americanos</h3>
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}},"textColor":"black"} -->
+    <p class="has-text-align-center has-black-color has-text-color" style="font-size:18px">Fale de forma autêntica e aprenda a usar uma comunicação objetiva e a pronúncia correta.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column -->
+    
+    <!-- wp:column {"verticalAlignment":"center","width":"","className":"border-vermelho","layout":{"inherit":false}} -->
+    <div class="wp-block-column is-vertically-aligned-center border-vermelho"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"30px"}},"textColor":"black"} -->
+    <h3 class="has-text-align-center has-black-color has-text-color" style="font-size:30px;font-style:normal;font-weight:500">Metodologia</h3>
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}},"textColor":"black"} -->
+    <p class="has-text-align-center has-black-color has-text-color" style="font-size:18px">Nosso método é online, dinâmico, atual e baseado em três pilares principais:</p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:group {"layout":{"inherit":false}} -->
+    <div class="wp-block-group"><!-- wp:uagb/columns {"block_id":"e2da95e9","classMigrate":true,"columns":3,"stack":"none","columnGap":"0","topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"contentWidth":"custom","width":302,"tag":"div"} -->
+    <div class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__background-undefined uagb-columns__stack-none uagb-columns__valign-undefined uagb-columns__gap-0 alignundefined uagb-block-e2da95e9"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-3"><!-- wp:uagb/column {"block_id":"4390214d","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topMargin":0,"bottomMargin":0,"leftMargin":0,"rightMargin":0,"colWidth":33} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-4390214d"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:image {"align":"center","id":123,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-large"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/05/icon-speaking.svg" alt="" class="wp-image-123"/></figure>
+    <!-- /wp:image -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"black","fontSize":"small"} -->
+    <p class="has-text-align-center has-black-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600">Speaking</p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"8c6a7f8d","classMigrate":true,"colWidth":33.33} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-8c6a7f8d"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:image {"align":"center","id":126,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-large"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/05/icon-engage.svg" alt="" class="wp-image-126"/></figure>
+    <!-- /wp:image -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"black","fontSize":"small"} -->
+    <p class="has-text-align-center has-black-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600">Engage</p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"cf6a5963","classMigrate":true,"colWidth":33.33} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-cf6a5963"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:image {"align":"center","id":127,"width":20,"height":20,"sizeSlug":"large","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-large is-resized"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/05/icon-feedback.svg" alt="" class="wp-image-127" width="20" height="20"/></figure>
+    <!-- /wp:image -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"black","fontSize":"small"} -->
+    <p class="has-text-align-center has-black-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600">Feedback</p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:uagb/column --></div></div>
+    <!-- /wp:uagb/columns --></div>
+    <!-- /wp:group --></div>
+    <!-- /wp:column --></div>
+    <!-- /wp:columns -->
+    
+    <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
+    <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","className":"border-amarelo","layout":{"inherit":false}} -->
+    <div class="wp-block-column is-vertically-aligned-center border-amarelo"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"30px"}},"textColor":"black"} -->
+    <h3 class="has-text-align-center has-black-color has-text-color" style="font-size:30px;font-style:normal;font-weight:500">Conteúdo<br>Didático</h3>
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}},"textColor":"black"} -->
+    <p class="has-text-align-center has-black-color has-text-color" style="font-size:18px">Programas de estudos criados por professores a partir de experiências reais de trabalho, vividas e compartilhadas pelos alunos.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column -->
+    
+    <!-- wp:column {"verticalAlignment":"center","className":"border-verde"} -->
+    <div class="wp-block-column is-vertically-aligned-center border-verde"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"30px"}},"textColor":"black"} -->
+    <h3 class="has-text-align-center has-black-color has-text-color" style="font-size:30px;font-style:normal;font-weight:500">Vídeos<br>Semanais</h3>
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px"}},"textColor":"black"} -->
+    <p class="has-text-align-center has-black-color has-text-color" style="font-size:18px">Atualize-se, conheça, pratique e discuta sobre temas conectados ao mercado e use tudo o que você aprender em situações profissionais.</p>
+    <!-- /wp:paragraph --></div>
+    <!-- /wp:column -->
+    
+    <!-- wp:column {"verticalAlignment":"center","width":"","className":"border-transparente","layout":{"inherit":false}} -->
+    <div class="wp-block-column is-vertically-aligned-center border-transparente"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"},"color":{"text":"#005f8e"}},"fontSize":"medium"} -->
+    <p class="has-text-align-center has-text-color has-medium-font-size" style="color:#005f8e;font-style:normal;font-weight:500;line-height:1.2">Descubra por que a OTB English é o melhor caminho pra você falar inglês de acordo com as suas necessidades.</p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"vertical"},"style":{"spacing":{"margin":{"top":"10px","bottom":"10px"}}}} -->
+    <div class="wp-block-buttons" style="margin-top:10px;margin-bottom:10px"><!-- wp:button {"textColor":"white","style":{"color":{"background":"#005f8e"}}} -->
+    <div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" style="background-color:#005f8e">SAIBA MAIS</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons --></div>
+    <!-- /wp:column --></div>
+    <!-- /wp:columns --></div>
+    <!-- /wp:group -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"ea6d0f21","topPadding":30,"topMargin":70,"topMarginMobile":0,"contentWidth":"full_width","width":1008,"innerWidth":1008,"backgroundType":"color","backgroundColor":"var(\u002d\u002dast-global-color-5)"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-ea6d0f21"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"headingColor":"var(\u002d\u002dast-global-color-8)","icon":"","headFontSize":50,"headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"headSpace":0,"block_id":"74b9b5e2","seperatorStyle":"none","showPrefix":false,"showDesc":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-74b9b5e2"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Recomendações</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box -->
+    
+    <!-- wp:uagb/columns {"block_id":"1a414bc9","classMigrate":true,"columns":3,"topPadding":0,"leftPaddingMobile":0,"rightPaddingMobile":0} -->
+    <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__background-undefined uagb-columns__stack-mobile uagb-columns__valign-undefined uagb-columns__gap-10 alignundefined uagb-block-1a414bc9"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-3"><!-- wp:uagb/column {"block_id":"37511169","classMigrate":true,"leftPaddingMobile":0,"rightPaddingMobile":0,"colWidth":33} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-37511169"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:uagb/section {"classMigrate":true,"block_id":"a83487a0","bottomPadding":0,"topPaddingMobile":0,"bottomPaddingMobile":0,"leftPaddingMobile":0,"rightPaddingMobile":0} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a83487a0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":834,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Group-965.png" alt="" class="wp-image-834"/></figure>
+    <!-- /wp:image --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontSize":22,"prefixFontSizeMobile":22,"prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":14,"headFontSizeMobile":14,"headFontFamily":"Quicksand","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Kanit","subHeadFontWeight":"300","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"headSpace":20,"block_id":"e8ccf52f","seperatorStyle":"none"} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-e8ccf52f"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Enrico Torres</span><h3 class="uagb-ifb-title">Group Account Director for the Americas na Orchid Creation</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">“O professor me prepara para qualquer desafio ou necessidade: entrevista, apresentações ou gramática. O material é completo e deu o suporte que precisei para desenvolver o meu inglês.”</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"c41e2f8a","classMigrate":true,"colWidth":33} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-c41e2f8a"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:uagb/section {"classMigrate":true,"block_id":"74136c23","bottomPadding":0} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74136c23"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":835,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Group-963.png" alt="" class="wp-image-835"/></figure>
+    <!-- /wp:image --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"subHeadingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontSize":22,"prefixFontSizeMobile":22,"prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":14,"headFontSizeMobile":14,"headFontFamily":"Quicksand","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Kanit","subHeadFontWeight":"300","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"headSpace":20,"block_id":"2bd24b31","seperatorStyle":"none"} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-2bd24b31"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Murilo Cruz Garcia</span><h3 class="uagb-ifb-title">General Counsel na Unigel Participações S.A.</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">“Os temas dos vídeos semanais são bem escolhidos, atuais e interessantes, como: economia, política, ciências, dentre outros, além de condicionar o aluno a expressar-se em temas cotidianos.”</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"2245c6a6","classMigrate":true} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-2245c6a6"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:uagb/section {"classMigrate":true,"block_id":"3a6105e0","bottomPadding":0} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3a6105e0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":836,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/Group-964.png" alt="" class="wp-image-836"/></figure>
+    <!-- /wp:image --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"headingColor":"var(\u002d\u002dast-global-color-8)","subHeadingColor":"var(\u002d\u002dast-global-color-8)","prefixColor":"var(\u002d\u002dast-global-color-8)","icon":"","prefixFontSize":22,"prefixFontSizeMobile":22,"prefixFontFamily":"Kanit","prefixFontWeight":"700","prefixFontSubset":"latin","prefixLoadGoogleFonts":true,"headFontSize":14,"headFontSizeMobile":14,"headFontFamily":"Quicksand","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Kanit","subHeadFontWeight":"300","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"headSpace":20,"block_id":"70353ed0","seperatorStyle":"none"} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-70353ed0"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Isabela Rossi Portes</span><h3 class="uagb-ifb-title">Supervisora Técnica na Max Recovery</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">“Gosto muito porque o professor é americano, as aulas são direcionadas para as exigências do meu PhD e os vídeos são sempre com temas muito relevantes, aproveito para me atualizar. A OTB English foi a melhor escolha!”</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></div>
+    <!-- /wp:uagb/column --></div></section>
+    <!-- /wp:uagb/columns --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"d5048567","topMargin":80,"bottomMargin":80,"contentWidth":"full_width","innerWidth":785,"className":"form-contato"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d5048567 form-contato"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:contact-form-7/contact-form-selector -->
+    <div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="515" title="Contato"]</div>
+    <!-- /wp:contact-form-7/contact-form-selector --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"f4760697"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f4760697"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:uagb/info-box {"classMigrate":true,"icon":"","headFontSize":50,"headFontSizeMobile":30,"headFontFamily":"Kanit","headFontWeight":"700","headFontSubset":"latin","headLoadGoogleFonts":true,"block_id":"7bdfbd58","seperatorStyle":"none","showPrefix":false,"showDesc":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-7bdfbd58"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Cursos Relacionados</h3></div><div class="uagb-ifb-text-wrap"></div></div></div></div></div>
+    <!-- /wp:uagb/info-box --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"2f4a7346","contentWidth":"full_width","innerWidth":1214} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2f4a7346"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":406,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/home/img-cursos-02/","mediaType":"image","className":"cursos-rel-box"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile cursos-rel-box"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/img-cursos-02.png" alt="" class="wp-image-406 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"74078d68"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74078d68"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:buttons {"className":"btn-cursos-rel"} -->
+    <div class="wp-block-buttons btn-cursos-rel"><!-- wp:button {"style":{"color":{"background":"#f5f9fc","text":"#005f8e"}},"className":"btn-cursos-rel-curso"} -->
+    <div class="wp-block-button btn-cursos-rel-curso"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Curso</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"background":"#f5f9fc","text":"#005f8e"}},"className":"btn-cursos-rel-individual"} -->
+    <div class="wp-block-button btn-cursos-rel-individual"><a class="wp-block-button__link has-text-color has-background" href="https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/five-star-presentations/para-voce/" style="background-color:#f5f9fc;color:#005f8e">Individual</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"background":"#f5f9fc","text":"#005f8e"}},"className":"btn-cursos-rel-grupo"} -->
+    <div class="wp-block-button btn-cursos-rel-grupo"><a class="wp-block-button__link has-text-color has-background" href="https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/five-star-presentations/para-sua-empresa/" style="background-color:#f5f9fc;color:#005f8e">Grupo</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"#005f8e","icon":"","headFontSize":25,"headFontSizeMobile":22,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"block_id":"d21d491b","seperatorStyle":"none","showPrefix":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-d21d491b"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Five Star Presentations</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Workshop que prepara profissionais para realizar apresentações em inglês com repertório envolvente para descrever de forma precisa e objetiva.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box -->
+    
+    <!-- wp:uagb/columns {"block_id":"abd61547","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"className":"btn-ver-curso"} -->
+    <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__background-undefined uagb-columns__stack-mobile uagb-columns__valign-undefined uagb-columns__gap-10 alignundefined uagb-block-abd61547 btn-ver-curso"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-2"><!-- wp:uagb/column {"block_id":"3fb7a1c9","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topMargin":0,"bottomMargin":0,"leftMargin":0,"rightMargin":0,"colWidth":50,"colWidthMobile":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-3fb7a1c9"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:paragraph {"style":{"color":{"text":"#a0b2be"}}} -->
+    <p class="has-text-color" style="color:#a0b2be"><a href="https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/five-star-presentations/para-voce/" data-type="page" data-id="292">VER CURSO</a></p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"625f9c7c","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topMargin":0,"bottomMargin":0,"leftMargin":-18,"colWidth":50,"colWidthMobile":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-625f9c7c"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:image {"align":"right","id":685,"sizeSlug":"full","linkDestination":"custom"} -->
+    <figure class="wp-block-image alignright size-full"><a href="https://wordpress-299923-2456588.cloudwaysapps.com/cursos-e-workshops/five-star-presentations/para-voce/"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/ico-arrow-gray.png" alt="" class="wp-image-685"/></a></figure>
+    <!-- /wp:image --></div></div>
+    <!-- /wp:uagb/column --></div></section>
+    <!-- /wp:uagb/columns --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
+    
+    <!-- wp:uagb/section {"classMigrate":true,"block_id":"b2f34392","bottomMargin":80,"contentWidth":"full_width","innerWidth":1214} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b2f34392"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:media-text {"mediaId":626,"mediaLink":"https://wordpress-299923-2456588.cloudwaysapps.com/3-0-workshop-five-star-presentations-voce/inconfidentes-1024x683-6/","mediaType":"image","className":"cursos-rel-box"} -->
+    <div class="wp-block-media-text alignwide is-stacked-on-mobile cursos-rel-box"><figure class="wp-block-media-text__media"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/inconfidentes-1024x683-6.png" alt="" class="wp-image-626 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:uagb/section {"classMigrate":true,"block_id":"f838e09b"} -->
+    <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f838e09b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:buttons {"className":"btn-cursos-rel"} -->
+    <div class="wp-block-buttons btn-cursos-rel"><!-- wp:button {"style":{"color":{"text":"#005f8e","background":"#f5f9fc"}},"className":"btn-cursos-rel-curso"} -->
+    <div class="wp-block-button btn-cursos-rel-curso"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Curso</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"text":"#005f8e","background":"#f5f9fc"}},"className":"btn-cursos-rel-individual"} -->
+    <div class="wp-block-button btn-cursos-rel-individual"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Individual</a></div>
+    <!-- /wp:button -->
+    
+    <!-- wp:button {"style":{"color":{"text":"#005f8e","background":"#f5f9fc"}},"className":"btn-cursos-rel-grupo"} -->
+    <div class="wp-block-button btn-cursos-rel-grupo"><a class="wp-block-button__link has-text-color has-background" style="background-color:#f5f9fc;color:#005f8e">Grupo</a></div>
+    <!-- /wp:button --></div>
+    <!-- /wp:buttons -->
+    
+    <!-- wp:uagb/info-box {"classMigrate":true,"headingAlign":"left","headingColor":"#005f8e","icon":"","headFontSize":25,"headFontSizeMobile":22,"headFontFamily":"Kanit","headFontWeight":"600","headFontSubset":"latin","headLoadGoogleFonts":true,"subHeadFontSize":18,"subHeadFontSizeMobile":14,"subHeadFontFamily":"Quicksand","subHeadFontWeight":"400","subHeadFontSubset":"latin","subHeadLoadGoogleFonts":true,"block_id":"637e9caa","seperatorStyle":"none","showPrefix":false} -->
+    <div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-637e9caa"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Diverse Fluency</h3></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Curso online para quem busca aprimorar o vocabulário, compreensão e fluência. As aulas são pautadas por vídeos de temas do cotidiano que estimulam a compreensão e o debate sobre os temas, onde o aluno fala 80% do tempo.</p></div></div></div></div></div>
+    <!-- /wp:uagb/info-box -->
+    
+    <!-- wp:uagb/columns {"block_id":"3db9ab4d","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"className":"btn-ver-curso"} -->
+    <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__background-undefined uagb-columns__stack-mobile uagb-columns__valign-undefined uagb-columns__gap-10 alignundefined uagb-block-3db9ab4d btn-ver-curso"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-2"><!-- wp:uagb/column {"block_id":"4c9a51bf","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topMargin":0,"bottomMargin":0,"leftMargin":0,"rightMargin":0,"colWidth":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-4c9a51bf"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:paragraph {"style":{"color":{"text":"#a0b2be"}}} -->
+    <p class="has-text-color" style="color:#a0b2be"><a href="/">VER CURSO</a></p>
+    <!-- /wp:paragraph --></div></div>
+    <!-- /wp:uagb/column -->
+    
+    <!-- wp:uagb/column {"block_id":"784bb480","classMigrate":true,"topPadding":0,"bottomPadding":0,"leftPadding":0,"rightPadding":0,"topMargin":0,"bottomMargin":0,"leftMargin":-18,"colWidth":50} -->
+    <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-undefined uagb-block-784bb480"><div class="uagb-column__overlay"></div><div class="uagb-column__inner-wrap"><!-- wp:image {"align":"right","id":685,"sizeSlug":"full","linkDestination":"custom"} -->
+    <figure class="wp-block-image alignright size-full"><a href="/"><img src="https://wordpress-299923-2456588.cloudwaysapps.com/wp-content/uploads/2022/06/ico-arrow-gray.png" alt="" class="wp-image-685"/></a></figure>
+    <!-- /wp:image --></div></div>
+    <!-- /wp:uagb/column --></div></section>
+    <!-- /wp:uagb/columns --></div></section>
+    <!-- /wp:uagb/section --></div></div>
+    <!-- /wp:media-text --></div></section>
+    <!-- /wp:uagb/section -->
