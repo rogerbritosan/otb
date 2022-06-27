@@ -278,3 +278,19 @@
     position: relative;
     top: -8px;
 }
+
+
+/* Cursos e Workshops */
+
+body.page-id-747 .site-content {
+	background-image:url(/wp-content/uploads/2022/06/bg-cursos-mobile.png);
+	background-repeat: no-repeat;
+	background-position: center 0;
+    background-color: #F5F9FC;
+}
+
+@media (min-width: 992px){
+	body.page-id-747 .site-content {
+		background-image:url(/wp-content/uploads/2022/06/bg-cursos-desktop.png);
+	}
+}
