@@ -232,9 +232,9 @@
 }
 
 .btn-cursos-rel {
-    justify-content: flex-end;
     gap: 0rem 1rem;
     position: relative;
+    margin-bottom:20px;
 }
 
 .cursos-rel-box {
@@ -246,4 +246,35 @@
     .cursos-rel-box {
         border-radius: 30px;
     }
+
+    .btn-cursos-rel {
+        justify-content: flex-end;
+        margin-bottom:0;
+    }
+
+}
+
+
+@media (max-width: 991px){
+    .nav-buttons-five-star {
+        margin-bottom: 18px;
+    }
+    .bloco-atividades-colaborativas h3.uagb-ifb-title {
+        display:none;
+    }
+
+    .btn-ver-curso .uagb-columns__inner-wrap {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .btn-ver-curso .wp-block-uagb-column {width: 50% !important;}
+    
+}
+
+.btn-ver-curso .wp-block-image {margin:0;}
+
+.btn-ver-curso .wp-block-image {
+    position: relative;
+    top: -8px;
 }
