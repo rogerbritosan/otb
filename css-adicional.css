@@ -99,6 +99,7 @@
         position: relative;
         background:none;
         min-height: 520px;
+        background-repeat: no-repeat;
     }
     
     .banner-five-star .uagb-section__inner-wrap {
@@ -113,6 +114,7 @@
         width: 680px;
         height: 490px;
         background-image: url(/wp-content/uploads/2022/06/banner-frames-desktop.png);
+        background-repeat: no-repeat;
         z-index: 100;
     }
 }
@@ -294,3 +296,95 @@ body.page-id-747 .site-content {
 		background-image:url(/wp-content/uploads/2022/06/bg-cursos-desktop.png);
 	}
 }
+
+
+
+/**
+* banner-good-great-speaker
+*/
+
+.banner-good-great-speaker {
+    background-image: url(/wp-content/uploads/2022/06/Group-953.png);
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 991px){
+    .banner-good-great-speaker {
+        padding-top: 260px !important;
+    }
+}
+
+@media (min-width: 992px){
+    .banner-good-great-speaker {
+        background-image: url("/wp-content/uploads/2022/06/Group-969.png");
+        background-position: right 0;
+        position: relative;
+        background:none;
+        min-height: 520px;
+        background-repeat: no-repeat;
+    }
+    
+    .banner-good-great-speaker .uagb-section__inner-wrap {
+        position:relative;
+    }
+
+    .banner-good-great-speaker .uagb-section__inner-wrap::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: -160px;
+        width: 680px;
+        height: 490px;
+        background-image: url(/wp-content/uploads/2022/06/Group-969.png);
+        background-repeat: no-repeat;
+        z-index: 100;
+    }
+}
+
+
+
+/**
+* banner-diverse-fluency
+*/
+
+.banner-diverse-fluency {
+    background-image: url(/wp-content/uploads/2022/06/Group-954.png);
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 991px){
+    .banner-diverse-fluency {
+        padding-top: 260px !important;
+    }
+}
+
+@media (min-width: 992px){
+    .banner-diverse-fluency {
+        background-image: url(/wp-content/uploads/2022/06/Group-954.png);
+        background-position: right 0;
+        background-repeat: no-repeat;
+        position: relative;
+        background:none;
+        min-height: 520px;
+    }
+    
+    .banner-diverse-fluency .uagb-section__inner-wrap {
+        position:relative;
+    }
+
+    .banner-diverse-fluency .uagb-section__inner-wrap::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: -160px;
+        width: 680px;
+        height: 490px;
+        background-image: url(/wp-content/uploads/2022/06/Group-970.png);
+        background-repeat: no-repeat;
+        z-index: 100;
+    }
+}
+
+
