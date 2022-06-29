@@ -388,3 +388,42 @@ body.page-id-747 .site-content {
 }
 
 
+.quem-somos-timeline {
+
+}
+
+.quem-somos-timeline .uagb-events-new {
+    border-width: 0 10px 10px 0;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.quem-somos-timeline .uagb-timeline__events-inner-new {
+    border-radius: 13px;
+}
+
+.timeline-azul .uagb-events-new {
+    border-color: #005F8E;
+}
+
+.timeline-roxo .uagb-events-new {
+    border-color: #973C74;
+}
+
+.timeline-vermelho .uagb-events-new {
+    border-color: #DA242B;
+}
+
+.timeline-amarelo .uagb-events-new {
+    border-color: #F8C300;
+}
+
+.timeline-verde .uagb-events-new {
+    border-color: #6A9C2C;
+}
+    
+@media (min-width: 992px){
+    .quem-somos-timeline .uagb-timeline__arrow {
+        display:none;
+    }
+}
