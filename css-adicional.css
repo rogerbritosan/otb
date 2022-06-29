@@ -427,3 +427,42 @@ body.page-id-747 .site-content {
         display:none;
     }
 }
+
+.quem-somos-timeline {
+    background-image:url(/wp-content/uploads/2022/06/quem-somos-timeline-mobile.png);
+    background-position: center 0;
+    background-color: #f5f9fc;
+}
+    
+@media (min-width: 992px){
+    .quem-somos-timeline {
+        background-image:url(/wp-content/uploads/2022/06/quem-somos-timeline-desktop.png);
+        background-position: center 0;
+        background-size: 80%;
+    }
+
+    .quem-somos-timeline .uagb-timeline__heading {
+        font-size:1.875rem;
+    }
+}
+
+.quem-somos-timeline .uagb-timeline__line__inner {
+    background-color: #A0B2BE;
+}
+
+.quem-somos-timeline .uagb-timeline__marker {
+    min-height: 11px;
+    min-width: 11px;
+}
+
+.quem-somos-timeline .uagb-timeline__main .uagb-timeline__marker.uagb-timeline__in-view-icon {
+    background: #005F8E;
+    border-color: #005F8E;
+}
+
+@media (max-width: 976px) {
+    .uagb-timeline__center-block.uagb-timeline__responsive-tablet .uagb-timeline__line {
+        left: 6.5px;
+    }
+     
+}
