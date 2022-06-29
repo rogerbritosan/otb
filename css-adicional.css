@@ -12,6 +12,20 @@
     }
 }
 
+.slick-next, .slick-prev {
+    top: 120px;
+}
+
+@media (max-width: 991px){
+    .slick-next {
+        right: -10px;
+    }
+    .slick-prev {
+        left: -10px;
+    }
+}
+
+
 .border-azul {
     border: solid #005F8E 20px;
     border-radius: 3em;
