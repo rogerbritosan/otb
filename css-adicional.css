@@ -89,6 +89,11 @@
     background-size: cover;
 }
 
+@media (min-width: 1200px){
+    .bg-cursos-workshops .wp-block-group .has-background {
+        padding: 0;
+    }
+}
 
 /**
 * Five Star Banner
@@ -469,9 +474,14 @@ body.page-id-747 .site-content {
     min-width: 11px;
 }
 
-.quem-somos-timeline .uagb-timeline__main .uagb-timeline__marker.uagb-timeline__in-view-icon {
+.quem-somos-timeline .uagb-timeline__main .wp-block-uagb-content-timeline-child .uagb-timeline__marker.uagb-timeline__in-view-icon {
     background: #005F8E;
     border-color: #005F8E;
+}
+
+.quem-somos-timeline .uagb-timeline__main .wp-block-uagb-content-timeline-child:nth(2) .uagb-timeline__marker.uagb-timeline__in-view-icon {
+    background: #973C74;
+    border-color: #973C74;
 }
 
 @media (max-width: 976px) {
@@ -479,4 +489,127 @@ body.page-id-747 .site-content {
         left: 6.5px;
     }
      
+}
+
+.wp-block-group {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+.workshop-empresarial {
+    border-radius: 26px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+h2.widget-title{
+	font-size: 22px;
+	font-weight: 700;
+	color: #005f8e;
+}
+
+#block-19 a {
+	font-size: 22px;
+	font-weight: 700;
+	color: #005f8e;
+	line-height: 110%;
+	text-decoration-line: underline;
+}
+
+@media (max-width: 991px) {
+
+    .workshop-empresarial .wp-block-media-text__media {
+        -webkit-border-top-left-radius: 26px;
+        -webkit-border-top-right-radius: 26px;
+        -moz-border-radius-topleft: 26px;
+        -moz-border-radius-topright: 26px;
+        border-top-left-radius: 26px;
+        border-top-right-radius: 26px;
+        overflow: hidden;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .workshop-empresarial .wp-block-media-text__media {
+        -webkit-border-bottom-right-radius: 26px;
+        -moz-border-radius-bottomright: 26px;
+        border-bottom-right-radius: 26px;
+        overflow: hidden;
+    }
+}
+
+.btn-ver-todos.is-style-outline {
+    border: 2px solid #495052;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    align-items: center;
+    width: 189px !important;
+    height: 38px !important;
+    border-radius: 11px;
+}
+
+.btn-ver-todos.is-style-outline .wp-block-button__link {
+    background-color: transparent;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.btn-ver-todos.is-style-outline .wp-block-button__link:hover {
+    background-color: transparent;
+    color: #000 !important;
+}
+
+@media (min-width: 992px) {
+    .btn-ver-todos.is-style-outline {
+        width: 198px !important;
+        height: 45px !important;
+    }
+}
+
+.btn-saiba-mais.is-style-outline {
+    border: 2px solid #005F8E;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    align-items: center;
+    width: 189px !important;
+    height: 38px !important;
+    border-radius: 11px;
+}
+
+.btn-saiba-mais.is-style-outline .wp-block-button__link {
+    background-color: transparent;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.btn-saiba-mais.is-style-outline .wp-block-button__link:hover {
+    background-color: transparent;
+    color: #005F8E !important;
+}
+
+@media (min-width: 992px) {
+    .btn-saiba-mais.is-style-outline {
+        width: 198px !important;
+        height: 45px !important;
+    }
+}
+
+.cursos-rel-box .wp-block-media-text__media {
+    -webkit-border-top-left-radius: 13px;
+    -webkit-border-top-right-radius: 13px;
+    -moz-border-radius-topleft: 13px;
+    -moz-border-radius-topright: 13px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    overflow:hidden;
 }
